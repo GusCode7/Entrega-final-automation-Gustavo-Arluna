@@ -1,0 +1,21 @@
+# Framework de Testing
+pytest==8.3.4
+pytest-html==4.1.1
+pytest-metadata==3.1.1
+
+# Selenium y WebDriver
+selenium==4.27.1
+webdriver-manager==4.0.2
+
+# Requests para API Testing
+requests==2.32.3
+
+# Utilidades para datos (versiones compatibles con Python 3.13)
+pandas==2.2.3
+openpyxl==3.1.5
+
+# Logging y reportes
+colorlog==6.9.0
+
+# Utilidades generales
+python-dotenv==1.0.1
